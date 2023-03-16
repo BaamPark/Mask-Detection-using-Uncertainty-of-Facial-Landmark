@@ -18,5 +18,5 @@ Kumar, A., Marks, T.K., Mou, W., Wang, Y., Cherian, A., Jones, M.J., Liu, X., Ko
 ## Resources
 - [LUVLi Face Alignment: Estimating Landmarks’ Location, Uncertainty, and Visibility Likelihood Research Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kumar_LUVLi_Face_Alignment_Estimating_Landmarks_Location_Uncertainty_and_Visibility_Likelihood_CVPR_2020_paper.pdf)
 - [LUVLi Source Code Request](https://www.merl.com/research/license/LUVLi)
-- [300W dataset] (https://ibug.doc.ic.ac.uk/resources/300-W/)
+- [300W dataset](https://ibug.doc.ic.ac.uk/resources/300-W/)
 
