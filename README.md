@@ -9,5 +9,5 @@ We implement a machine learning model to classify whether mask is present or abs
 
 ## Resources
 - [LUVLi Face Alignment: Estimating Landmarks’ Location, Uncertainty, and Visibility Likelihood Research Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kumar_LUVLi_Face_Alignment_Estimating_Landmarks_Location_Uncertainty_and_Visibility_Likelihood_CVPR_2020_paper.pdf)
-- [Source Code Request](https://www.merl.com/research/license/LUVLi)
+- [LUVLi Source Code Request](https://www.merl.com/research/license/LUVLi)
 
